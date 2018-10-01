@@ -4,3 +4,5 @@ This allows user clicks on Best day for Picnic to find the date when the least a
 showing     Monday the xxth day of the month is the best day for a picnic.
 or click input your requested vacation days click on Vaction days
 it will show X days out of requested days
+
+Download either Zip files for the VS 2017 project
